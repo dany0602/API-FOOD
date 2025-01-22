@@ -1,0 +1,50 @@
+/* nom du produit domination generique categorie code barre marque photo nutri-score  nova 4
+button rechercher v3  */
+body{
+    max-width: 1000px;
+    margin: 0 auto;
+    background-color: orange;
+}
+.search {
+  margin: 2rem 0;
+  display: flex;
+  justify-content: center;
+}
+.affichage{
+    width: 10rem;
+    align-self: center;
+}
+.imgcenter{
+    display: flex;
+    justify-content: center;
+}
+.bold{
+    font-weight: bold;
+}
+.product{
+    margin: 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.productimg{
+    max-width: 15rem;
+    margin: 0 auto;
+}
+
+.notegrade{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin: 2rem 0 ;
+}
+.gradea{
+    width: 2rem;
+    height: auto;
+}
+.gradeb{
+    width: 5rem;
+    height: auto;
+}
